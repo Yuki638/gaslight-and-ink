@@ -1,0 +1,13 @@
+{
+  "tris": 1318,
+  "objects": [
+    "ChimneyStack_Brick",
+    "ChimneyStack_Stone",
+    "ChimneyStack_Clay"
+  ],
+  "dims": [
+    3.52,
+    3.12,
+    7.2
+  ]
+}

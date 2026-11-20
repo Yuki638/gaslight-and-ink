@@ -1,0 +1,12 @@
+{
+  "tris": 1404,
+  "objects": [
+    "PillarBox_Iron",
+    "PillarBox_Brass"
+  ],
+  "dims": [
+    1.96,
+    1.94,
+    5.0
+  ]
+}

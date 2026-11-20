@@ -1,0 +1,13 @@
+{
+  "tris": 788,
+  "objects": [
+    "TonicVial_Glass",
+    "TonicVial_Liquid",
+    "TonicVial_Cork"
+  ],
+  "dims": [
+    0.55,
+    0.55,
+    0.9
+  ]
+}
