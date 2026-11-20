@@ -1,0 +1,14 @@
+{
+  "tris": 1855,
+  "objects": [
+    "Door_Stone",
+    "Door_Glass",
+    "Door_Wood",
+    "Door_Brass"
+  ],
+  "dims": [
+    5.6,
+    1.2,
+    8.3
+  ]
+}

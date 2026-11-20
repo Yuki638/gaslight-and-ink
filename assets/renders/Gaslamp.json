@@ -1,0 +1,14 @@
+{
+  "tris": 3700,
+  "objects": [
+    "Gaslamp_Iron",
+    "Gaslamp_Brass",
+    "Gaslamp_Glass",
+    "Gaslamp_Flame"
+  ],
+  "dims": [
+    3.329,
+    1.868,
+    15.0
+  ]
+}

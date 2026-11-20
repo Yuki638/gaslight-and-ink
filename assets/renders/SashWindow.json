@@ -1,0 +1,13 @@
+{
+  "tris": 582,
+  "objects": [
+    "SashWindow_Stone",
+    "SashWindow_Wood",
+    "SashWindow_Glass"
+  ],
+  "dims": [
+    4.6,
+    1.0,
+    5.8
+  ]
+}

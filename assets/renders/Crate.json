@@ -1,0 +1,12 @@
+{
+  "tris": 700,
+  "objects": [
+    "Crate_Wood",
+    "Crate_Iron"
+  ],
+  "dims": [
+    3.0,
+    3.0,
+    3.0
+  ]
+}

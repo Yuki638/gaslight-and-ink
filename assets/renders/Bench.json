@@ -1,0 +1,12 @@
+{
+  "tris": 2132,
+  "objects": [
+    "Bench_Iron",
+    "Bench_Wood"
+  ],
+  "dims": [
+    6.0,
+    2.415,
+    3.142
+  ]
+}
